@@ -1,6 +1,6 @@
 # DigDoggityDog - return your input string with a dog emoji!
 
-**A utility for replacing the period at the end of a string with a 🐕 emoji. If no period, it will still add the 🐕 emoji!
+**A utility for replacing the period at the end of a string with a 🐕 emoji. If no period, it will still add the 🐕 emoji!**
 
 Think of something to write..
 
